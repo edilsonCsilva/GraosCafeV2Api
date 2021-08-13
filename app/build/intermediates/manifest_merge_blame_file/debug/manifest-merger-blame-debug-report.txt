@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.graocafeapi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Include required permissions for Google Mobile Ads to run. -->
+11-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:6:5-77
+11-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:6:22-74
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:7:5-67
+12-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:8:5-79
+13-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Reading and file writing -->
+14-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:9:5-81
+14-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:10:5-81
+15-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:11:5-65
+16-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:11:22-62
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:12:5-80
+17-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:13:5-75
+18-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:13:22-72
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:14:5-81
+19-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:15:5-79
+20-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="com.android.launcher. .INSTALL_SHORTCUT" />
+21-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:16:5-79
+21-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:16:22-76
+22    <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+22-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:17:5-19:47
+22-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:18:9-60
+23    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+23-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:20:5-78
+23-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:20:22-75
+24
+25    <application
+25-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:22:5-48:19
+26        android:allowBackup="true"
+26-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:23:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.5.0] /home/edi/.gradle/caches/transforms-3/e759884e8e1539e68246ec4d8729cc98/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher_12"
+29-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:24:9-46
+30        android:label="@string/app_name"
+30-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:25:9-41
+31        android:networkSecurityConfig="@xml/network_security_config"
+31-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:26:9-69
+32        android:roundIcon="@mipmap/ic_launcher_12"
+32-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:27:9-51
+33        android:supportsRtl="true"
+33-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:28:9-35
+34        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+34-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:29:9-70
+35        android:usesCleartextTraffic="true" >
+35-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:30:9-44
+36        <activity
+36-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:31:9-33:39
+37            android:name="com.example.graocafeapi.view.Detalhes"
+37-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:32:13-42
+38            android:exported="true" />
+38-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:33:13-36
+39        <activity
+39-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:34:9-37:52
+40            android:name="com.example.graocafeapi.view.TiposGrainsCafe"
+40-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:35:13-49
+41            android:exported="true"
+41-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:36:13-36
+42            android:screenOrientation="portrait" />
+42-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:37:13-49
+43        <activity
+43-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:38:9-47:20
+44            android:name="com.example.graocafeapi.view.ShowGraosCafe"
+44-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:39:13-47
+45            android:exported="true"
+45-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:40:13-36
+46            android:screenOrientation="portrait" >
+46-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:41:13-49
+47            <intent-filter>
+47-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:42:13-46:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:17-69
+48-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:17-77
+50-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:27-74
+51            </intent-filter>
+52        </activity>
+53    </application>
+54
+55</manifest>
