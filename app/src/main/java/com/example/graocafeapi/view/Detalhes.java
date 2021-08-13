@@ -36,6 +36,7 @@ public class Detalhes extends AppCompatActivity {
         gui.ab.setDisplayHomeAsUpEnabled(true);
         gui.ab.setHomeButtonEnabled(true);
 
+        
         gui.marca = (TextView) findViewById(R.id.marca);
         gui.format_coffer = (TextView) findViewById(R.id.format_coffer);
         gui.photo = (ImageView) findViewById(R.id.photo);

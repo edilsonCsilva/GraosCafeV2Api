@@ -16,6 +16,7 @@
             android:layout_height="match_parent"
             android:padding="25dp"
             android:orientation="vertical">
+
             <ImageView
                 android:padding="15dp"
                 android:id="@+id/photo"
