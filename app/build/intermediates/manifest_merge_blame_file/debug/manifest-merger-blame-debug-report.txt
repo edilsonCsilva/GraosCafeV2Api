@@ -67,43 +67,44 @@
 32-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:27:9-51
 33        android:supportsRtl="true"
 33-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:28:9-35
-34        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
-34-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:29:9-70
-35        android:usesCleartextTraffic="true" >
-35-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:30:9-44
-36        <activity
-36-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:31:9-33:39
-37            android:name="com.example.graocafeapi.view.Detalhes"
-37-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:32:13-42
-38            android:exported="true" />
-38-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:33:13-36
-39        <activity
-39-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:34:9-37:52
-40            android:name="com.example.graocafeapi.view.TiposGrainsCafe"
-40-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:35:13-49
-41            android:exported="true"
-41-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:36:13-36
-42            android:screenOrientation="portrait" />
-42-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:37:13-49
-43        <activity
-43-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:38:9-47:20
-44            android:name="com.example.graocafeapi.view.ShowGraosCafe"
-44-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:39:13-47
-45            android:exported="true"
-45-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:40:13-36
-46            android:screenOrientation="portrait" >
-46-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:41:13-49
-47            <intent-filter>
-47-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:42:13-46:29
-48                <action android:name="android.intent.action.MAIN" />
-48-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:17-69
-48-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:25-66
-49
-50                <category android:name="android.intent.category.LAUNCHER" />
-50-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:17-77
-50-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:27-74
-51            </intent-filter>
-52        </activity>
-53    </application>
-54
-55</manifest>
+34        android:testOnly="true"
+35        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+35-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:29:9-70
+36        android:usesCleartextTraffic="true" >
+36-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:30:9-44
+37        <activity
+37-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:31:9-33:39
+38            android:name="com.example.graocafeapi.view.Detalhes"
+38-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:32:13-42
+39            android:exported="true" />
+39-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:33:13-36
+40        <activity
+40-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:34:9-37:52
+41            android:name="com.example.graocafeapi.view.TiposGrainsCafe"
+41-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:35:13-49
+42            android:exported="true"
+42-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:36:13-36
+43            android:screenOrientation="portrait" />
+43-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:37:13-49
+44        <activity
+44-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:38:9-47:20
+45            android:name="com.example.graocafeapi.view.ShowGraosCafe"
+45-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:39:13-47
+46            android:exported="true"
+46-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:40:13-36
+47            android:screenOrientation="portrait" >
+47-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:41:13-49
+48            <intent-filter>
+48-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:42:13-46:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:17-69
+49-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:43:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:17-77
+51-->/home/edi/GraoCafeApi/app/src/main/AndroidManifest.xml:45:27-74
+52            </intent-filter>
+53        </activity>
+54    </application>
+55
+56</manifest>

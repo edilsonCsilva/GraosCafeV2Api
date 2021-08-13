@@ -150,6 +150,7 @@ public class TiposGrainsCafe extends AppCompatActivity {
             holder.title.setText(this.typesCoffes.get(position).getNome());
             final Object item = this.typesCoffes.get(position);
             if(!this.typesCoffes.get(position).getImg_path().isEmpty()){
+                holder.foto.setImageResource(R.drawable.load);
                 new DownloadImageTask(holder.foto).execute(String.format("%sfiles/%s", Api.BASE_URL,this.typesCoffes.get(position).getImg_path()));
             }
             holder.amont.setText(String.format("RS: %S",this.typesCoffes.get(position).getAmont()));

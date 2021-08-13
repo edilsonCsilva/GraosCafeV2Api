@@ -1,19 +1,7 @@
 [
     {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_12_round.png.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher_12_round.png"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/xml/network_security_config.xml"
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_18_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_18_round.png"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable_buuton_round_1.xml.flat",
@@ -24,8 +12,16 @@
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_12_foreground.png"
     },
     {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_18.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_18.xml"
+    },
+    {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_12_foreground.png.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_12_foreground.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_18_round.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_18_round.xml"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -48,32 +44,16 @@
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_12_round.png"
     },
     {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_12_round.png.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_12_round.png"
-    },
-    {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_12_round.xml.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_12_round.xml"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_activity_detalhes.xml.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/activity_detalhes.xml"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_main_line_view.xml.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/main_line_view.xml"
     },
     {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_18.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_18.png"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -84,16 +64,108 @@
         "source": "/home/edi/GraoCafeApi/app/src/main/res/drawable/ic_launcher_12_background.xml"
     },
     {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/edi/GraoCafeApi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
-    },
-    {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_activity_tipos_grains_cafe.xml.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/activity_tipos_grains_cafe.xml"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_12.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_12.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_12_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher_12_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_18.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_18.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_18.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_18.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_18_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_18_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable_ic_launcher_18_background.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/drawable/ic_launcher_18_background.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_18_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher_18_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable_load.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/drawable/load.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_12_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher_12_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_activity_detalhes.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/activity_detalhes.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_18.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher_18.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_18_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_18_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_18.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_18.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_18_round.png.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_18_round.png"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable_ic_launcher_18_foreground.xml.flat",
+        "source": "/home/edi/GraoCafeApi/app/src/main/res/drawable/ic_launcher_18_foreground.xml"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_12_foreground.png.flat",
@@ -112,14 +184,6 @@
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_12.png"
     },
     {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_12.png.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_12.png"
-    },
-    {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/drawable_fundo_2.jpeg.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/drawable/fundo_2.jpeg"
     },
@@ -130,10 +194,6 @@
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_12_round.png.flat",
         "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_12_round.png"
-    },
-    {
-        "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/edi/GraoCafeApi/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "/home/edi/GraoCafeApi/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_12.png.flat",

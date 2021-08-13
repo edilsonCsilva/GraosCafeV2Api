@@ -1785,12 +1785,15 @@ drawable fundo_2
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_12_background
+drawable ic_launcher_18_background
+drawable ic_launcher_18_foreground
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable load
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2469,6 +2472,8 @@ mipmap ic_launcher
 mipmap ic_launcher_12
 mipmap ic_launcher_12_foreground
 mipmap ic_launcher_12_round
+mipmap ic_launcher_18
+mipmap ic_launcher_18_round
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

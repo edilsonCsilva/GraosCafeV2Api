@@ -47,6 +47,7 @@ public class Detalhes extends AppCompatActivity {
         Intent i = getIntent();
         gui.tiposGraosCafe = (TiposGraosCafe) i.getSerializableExtra("typesCoffers");
         if (!gui.tiposGraosCafe.getImg_path().isEmpty()) {
+            gui.photo.setImageDrawable(getResources().getDrawable(R.drawable.load));
             new DownloadImageTask(gui.photo).execute(String.format("%sfiles/%s", Api.BASE_URL, gui.tiposGraosCafe.getImg_path()));
         }
 
@@ -99,7 +100,7 @@ public class Detalhes extends AppCompatActivity {
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
-                startActivity(new Intent(gui.ctx, TiposGrainsCafe.class));
+
                 finishAffinity();
                 break;
             default:

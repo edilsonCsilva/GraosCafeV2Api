@@ -1,9 +1,7 @@
 com/example/graocafeapi/interfaces/OnClickList.java
  com.example.graocafeapi.interfaces.OnClickList
-com/example/graocafeapi/view/Detalhes.java
- com.example.graocafeapi.view.Detalhes
- com.example.graocafeapi.view.Detalhes$DownloadImageTask
- com.example.graocafeapi.view.Detalhes$Gui
+com/example/graocafeapi/model/TiposGraosCafe.java
+ com.example.graocafeapi.model.TiposGraosCafe
 com/example/graocafeapi/api/ApiInterface.java
  com.example.graocafeapi.api.ApiInterface
 com/example/graocafeapi/model/Characteristics.java
@@ -12,6 +10,12 @@ com/example/graocafeapi/api/Api.java
  com.example.graocafeapi.api.Api
 com/example/graocafeapi/services/SevicesGrains.java
  com.example.graocafeapi.services.SevicesGrains
+com/example/graocafeapi/BuildConfig.java
+ com.example.graocafeapi.BuildConfig
+com/example/graocafeapi/view/Detalhes.java
+ com.example.graocafeapi.view.Detalhes
+ com.example.graocafeapi.view.Detalhes$DownloadImageTask
+ com.example.graocafeapi.view.Detalhes$Gui
 com/example/graocafeapi/view/ShowGraosCafe.java
  com.example.graocafeapi.view.ShowGraosCafe
  com.example.graocafeapi.view.ShowGraosCafe$1
@@ -26,7 +30,3 @@ com/example/graocafeapi/view/TiposGrainsCafe.java
  com.example.graocafeapi.view.TiposGrainsCafe$LineGrainAdapter
  com.example.graocafeapi.view.TiposGrainsCafe$LineGrainAdapter$1
  com.example.graocafeapi.view.TiposGrainsCafe$LineGrainHolder
-com/example/graocafeapi/BuildConfig.java
- com.example.graocafeapi.BuildConfig
-com/example/graocafeapi/model/TiposGraosCafe.java
- com.example.graocafeapi.model.TiposGraosCafe
