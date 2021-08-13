@@ -23,7 +23,6 @@
             android:orientation="horizontal">
 
             <ImageView
-
                 android:padding="15dp"
                 android:id="@+id/foto"
                 android:layout_width="180dp"
